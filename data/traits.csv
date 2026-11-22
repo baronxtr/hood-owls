@@ -1,0 +1,1001 @@
+token_id,body,belly,eye,hat,hat_color,background,accessory
+1,Plum,Scallop,Teal,None,None,Midnight Teal,Feather
+2,Ash,Spots,Amber,Beanie,Royal,Deep Navy,Feather
+3,Rust,Spots,Emerald,Robin Hood,Green,Plum Night,Feather
+4,Forest,Scallop,Sapphire,Robin Hood,Gold,Midnight Teal,Star
+5,Plum,Spots,Emerald,Wizard,Gold,Ocean Deep,Feather
+6,Plum,Plain,Sapphire,None,None,Plum Night,Star
+7,Sand,Plain,Amber,Wizard,Gold,Midnight Teal,Feather
+8,Forest,Plain,Ruby,None,None,Deep Navy,Mushroom
+9,Plum,Stripes,Amber,Wizard,Green,Forest Night,Mushroom
+10,Chestnut,Plain,Ruby,Robin Hood,Green,Plum Night,Feather
+11,Rust,Stripes,Teal,Robin Hood,Green,Forest Night,Feather
+12,Ash,Stripes,Violet,Cap,Green,Midnight Teal,Mushroom
+13,Cocoa,Stripes,Amber,Robin Hood,Crimson,Plum Night,Feather
+14,Slate,Scallop,Sapphire,Cap,Crimson,Midnight Teal,Mushroom
+15,Ash,Stripes,Emerald,Cap,Royal,Ocean Deep,Mushroom
+16,Plum,Scallop,Violet,Wizard,Royal,Deep Navy,Mushroom
+17,Slate,Plain,Teal,None,None,Burgundy Night,Mushroom
+18,Sand,Spots,Sapphire,Beanie,Crimson,Burgundy Night,Star
+19,Slate,Scallop,Teal,Cap,Green,Charcoal,Feather
+20,Forest,Scallop,Violet,Robin Hood,Green,Burgundy Night,Feather
+21,Forest,Scallop,Teal,Robin Hood,Crimson,Deep Navy,Mushroom
+22,Cocoa,Stripes,Violet,Cap,Gold,Ocean Deep,Feather
+23,Plum,Stripes,Emerald,Beanie,Crimson,Ocean Deep,Mushroom
+24,Forest,Spots,Teal,None,None,Plum Night,Feather
+25,Cocoa,Stripes,Emerald,None,None,Plum Night,Star
+26,Plum,Spots,Ruby,None,None,Deep Navy,Feather
+27,Sand,Stripes,Emerald,Cap,Royal,Burgundy Night,Mushroom
+28,Plum,Plain,Violet,Wizard,Gold,Charcoal,Star
+29,Cocoa,Plain,Amber,Wizard,Gold,Moss Dark,Mushroom
+30,Ash,Plain,Teal,Cap,Gold,Plum Night,None
+31,Forest,Plain,Violet,Beanie,Royal,Deep Navy,Mushroom
+32,Rust,Scallop,Emerald,Beanie,Gold,Charcoal,None
+33,Forest,Scallop,Violet,Wizard,Green,Moss Dark,Star
+34,Slate,Plain,Sapphire,Robin Hood,Crimson,Midnight Teal,Feather
+35,Cocoa,Plain,Ruby,Wizard,Royal,Plum Night,Mushroom
+36,Sand,Stripes,Sapphire,Beanie,Green,Ocean Deep,Star
+37,Ash,Plain,Amber,Wizard,Crimson,Moss Dark,None
+38,Plum,Stripes,Ruby,None,None,Forest Night,None
+39,Cocoa,Spots,Violet,Cap,Gold,Moss Dark,None
+40,Slate,Stripes,Amber,Wizard,Royal,Burgundy Night,None
+41,Ash,Scallop,Violet,Robin Hood,Crimson,Midnight Teal,None
+42,Slate,Scallop,Amber,Cap,Green,Plum Night,None
+43,Forest,Plain,Violet,Robin Hood,Royal,Ocean Deep,None
+44,Plum,Spots,Ruby,Cap,Gold,Charcoal,Star
+45,Forest,Spots,Teal,Cap,Green,Burgundy Night,Star
+46,Rust,Plain,Violet,Cap,Crimson,Moss Dark,Mushroom
+47,Ash,Scallop,Ruby,None,None,Forest Night,None
+48,Forest,Spots,Sapphire,Robin Hood,Crimson,Deep Navy,Star
+49,Sand,Scallop,Emerald,Beanie,Gold,Burgundy Night,Star
+50,Cocoa,Scallop,Amber,Beanie,Green,Plum Night,Feather
+51,Ash,Plain,Sapphire,Wizard,Green,Moss Dark,Mushroom
+52,Chestnut,Scallop,Teal,Wizard,Gold,Ocean Deep,None
+53,Rust,Scallop,Sapphire,Cap,Green,Burgundy Night,None
+54,Chestnut,Scallop,Emerald,Wizard,Crimson,Charcoal,Feather
+55,Chestnut,Scallop,Amber,None,None,Moss Dark,None
+56,Slate,Spots,Sapphire,None,None,Deep Navy,Mushroom
+57,Rust,Plain,Ruby,Wizard,Gold,Deep Navy,Mushroom
+58,Rust,Scallop,Amber,Wizard,Green,Midnight Teal,Star
+59,Plum,Plain,Amber,Beanie,Crimson,Ocean Deep,Mushroom
+60,Chestnut,Plain,Ruby,None,None,Deep Navy,None
+61,Cocoa,Spots,Teal,Wizard,Crimson,Forest Night,None
+62,Ash,Plain,Emerald,Wizard,Green,Burgundy Night,None
+63,Chestnut,Plain,Teal,None,None,Charcoal,Mushroom
+64,Forest,Scallop,Emerald,None,None,Ocean Deep,Feather
+65,Slate,Spots,Ruby,Beanie,Green,Charcoal,Mushroom
+66,Forest,Spots,Emerald,Cap,Crimson,Midnight Teal,Feather
+67,Ash,Scallop,Violet,Robin Hood,Gold,Charcoal,None
+68,Plum,Spots,Emerald,Wizard,Crimson,Ocean Deep,Feather
+69,Slate,Spots,Emerald,Cap,Green,Ocean Deep,None
+70,Chestnut,Scallop,Emerald,Robin Hood,Gold,Burgundy Night,Mushroom
+71,Slate,Stripes,Sapphire,Robin Hood,Royal,Moss Dark,None
+72,Rust,Scallop,Ruby,Wizard,Green,Midnight Teal,Feather
+73,Chestnut,Stripes,Amber,None,None,Ocean Deep,Feather
+74,Forest,Scallop,Violet,None,None,Burgundy Night,Mushroom
+75,Ash,Spots,Ruby,Cap,Green,Burgundy Night,None
+76,Ash,Stripes,Emerald,Cap,Royal,Midnight Teal,None
+77,Forest,Scallop,Teal,Cap,Crimson,Deep Navy,Feather
+78,Plum,Stripes,Ruby,Cap,Gold,Plum Night,None
+79,Plum,Spots,Violet,Wizard,Crimson,Moss Dark,Feather
+80,Cocoa,Scallop,Emerald,Cap,Royal,Forest Night,Star
+81,Sand,Spots,Violet,Robin Hood,Gold,Forest Night,Feather
+82,Plum,Plain,Sapphire,Wizard,Royal,Charcoal,None
+83,Rust,Stripes,Teal,Beanie,Crimson,Moss Dark,None
+84,Cocoa,Stripes,Sapphire,Robin Hood,Gold,Forest Night,Mushroom
+85,Ash,Scallop,Teal,Wizard,Crimson,Charcoal,None
+86,Plum,Scallop,Violet,Robin Hood,Gold,Plum Night,Star
+87,Sand,Spots,Violet,Cap,Crimson,Deep Navy,Mushroom
+88,Forest,Stripes,Amber,None,None,Plum Night,Mushroom
+89,Plum,Plain,Teal,None,None,Charcoal,Star
+90,Plum,Spots,Amber,Beanie,Royal,Forest Night,None
+91,Forest,Stripes,Sapphire,Beanie,Royal,Deep Navy,Feather
+92,Slate,Scallop,Amber,Beanie,Crimson,Charcoal,Star
+93,Slate,Plain,Emerald,None,None,Plum Night,Feather
+94,Cocoa,Spots,Emerald,Robin Hood,Crimson,Charcoal,None
+95,Sand,Plain,Teal,None,None,Ocean Deep,None
+96,Ash,Spots,Emerald,Robin Hood,Royal,Moss Dark,Mushroom
+97,Cocoa,Stripes,Ruby,None,None,Forest Night,Mushroom
+98,Ash,Plain,Emerald,Wizard,Green,Moss Dark,Feather
+99,Chestnut,Plain,Violet,Beanie,Green,Deep Navy,None
+100,Chestnut,Plain,Sapphire,Beanie,Green,Plum Night,Star
+101,Sand,Scallop,Violet,Wizard,Green,Moss Dark,Feather
+102,Ash,Scallop,Sapphire,None,None,Deep Navy,None
+103,Rust,Stripes,Teal,None,None,Midnight Teal,None
+104,Sand,Stripes,Teal,Wizard,Green,Moss Dark,Star
+105,Slate,Scallop,Amber,Robin Hood,Gold,Charcoal,Feather
+106,Chestnut,Spots,Emerald,Robin Hood,Royal,Deep Navy,Star
+107,Rust,Plain,Teal,Beanie,Crimson,Forest Night,Mushroom
+108,Cocoa,Scallop,Ruby,None,None,Midnight Teal,Star
+109,Chestnut,Stripes,Emerald,Beanie,Royal,Plum Night,Mushroom
+110,Slate,Scallop,Emerald,Beanie,Crimson,Forest Night,None
+111,Chestnut,Stripes,Teal,Cap,Crimson,Midnight Teal,Mushroom
+112,Chestnut,Plain,Sapphire,Beanie,Green,Deep Navy,Feather
+113,Forest,Plain,Emerald,Cap,Crimson,Charcoal,None
+114,Sand,Stripes,Amber,Beanie,Crimson,Midnight Teal,None
+115,Chestnut,Spots,Emerald,None,None,Charcoal,Star
+116,Plum,Plain,Ruby,Cap,Green,Plum Night,Feather
+117,Chestnut,Stripes,Ruby,Beanie,Crimson,Forest Night,Mushroom
+118,Slate,Spots,Emerald,Wizard,Royal,Forest Night,Feather
+119,Ash,Scallop,Emerald,Beanie,Crimson,Burgundy Night,None
+120,Ash,Scallop,Sapphire,Beanie,Royal,Ocean Deep,None
+121,Slate,Scallop,Amber,Wizard,Royal,Forest Night,Feather
+122,Sand,Scallop,Violet,Cap,Gold,Forest Night,Feather
+123,Sand,Spots,Amber,Cap,Green,Charcoal,Mushroom
+124,Rust,Spots,Violet,Cap,Crimson,Moss Dark,Feather
+125,Rust,Spots,Sapphire,Wizard,Gold,Deep Navy,Mushroom
+126,Sand,Scallop,Sapphire,None,None,Deep Navy,Mushroom
+127,Rust,Plain,Emerald,Wizard,Royal,Deep Navy,None
+128,Plum,Spots,Ruby,Beanie,Gold,Moss Dark,None
+129,Slate,Spots,Emerald,Beanie,Green,Burgundy Night,Mushroom
+130,Sand,Scallop,Emerald,Cap,Gold,Midnight Teal,Star
+131,Ash,Scallop,Violet,None,None,Charcoal,Mushroom
+132,Ash,Stripes,Amber,None,None,Ocean Deep,Star
+133,Cocoa,Plain,Sapphire,Robin Hood,Crimson,Plum Night,None
+134,Slate,Spots,Sapphire,Wizard,Green,Plum Night,Feather
+135,Sand,Plain,Teal,Wizard,Gold,Burgundy Night,Star
+136,Sand,Stripes,Teal,Beanie,Crimson,Midnight Teal,Star
+137,Ash,Spots,Violet,Wizard,Royal,Deep Navy,Mushroom
+138,Chestnut,Spots,Violet,Robin Hood,Green,Plum Night,Mushroom
+139,Slate,Plain,Ruby,None,None,Ocean Deep,Mushroom
+140,Slate,Spots,Emerald,Robin Hood,Green,Moss Dark,Mushroom
+141,Slate,Spots,Violet,Beanie,Royal,Midnight Teal,Star
+142,Chestnut,Spots,Teal,Beanie,Gold,Moss Dark,Star
+143,Chestnut,Scallop,Teal,Wizard,Green,Deep Navy,Star
+144,Rust,Stripes,Violet,Beanie,Royal,Deep Navy,Feather
+145,Ash,Stripes,Sapphire,Robin Hood,Crimson,Ocean Deep,Feather
+146,Chestnut,Scallop,Teal,Beanie,Royal,Midnight Teal,Feather
+147,Sand,Stripes,Violet,Beanie,Royal,Burgundy Night,None
+148,Plum,Spots,Violet,Cap,Gold,Burgundy Night,Mushroom
+149,Forest,Spots,Violet,Beanie,Royal,Midnight Teal,None
+150,Ash,Spots,Emerald,Cap,Green,Midnight Teal,Mushroom
+151,Slate,Scallop,Emerald,Beanie,Royal,Plum Night,Feather
+152,Sand,Stripes,Sapphire,Wizard,Crimson,Charcoal,Mushroom
+153,Sand,Scallop,Violet,Robin Hood,Gold,Charcoal,Feather
+154,Slate,Stripes,Sapphire,Cap,Gold,Burgundy Night,None
+155,Rust,Stripes,Amber,Robin Hood,Crimson,Deep Navy,Mushroom
+156,Cocoa,Stripes,Teal,None,None,Midnight Teal,Star
+157,Cocoa,Plain,Emerald,None,None,Deep Navy,None
+158,Sand,Scallop,Amber,Wizard,Gold,Forest Night,Mushroom
+159,Rust,Plain,Sapphire,Cap,Crimson,Ocean Deep,Mushroom
+160,Rust,Stripes,Violet,Cap,Gold,Forest Night,Mushroom
+161,Forest,Plain,Amber,Robin Hood,Royal,Burgundy Night,None
+162,Plum,Scallop,Teal,Beanie,Royal,Charcoal,None
+163,Rust,Spots,Teal,None,None,Burgundy Night,Feather
+164,Chestnut,Spots,Teal,Wizard,Crimson,Plum Night,Feather
+165,Slate,Scallop,Amber,Cap,Royal,Midnight Teal,Star
+166,Forest,Spots,Ruby,Wizard,Green,Plum Night,Mushroom
+167,Forest,Scallop,Violet,None,None,Charcoal,Star
+168,Ash,Plain,Ruby,Robin Hood,Royal,Ocean Deep,Mushroom
+169,Rust,Stripes,Violet,Robin Hood,Green,Midnight Teal,None
+170,Plum,Plain,Ruby,Wizard,Royal,Plum Night,Feather
+171,Chestnut,Plain,Sapphire,Beanie,Crimson,Forest Night,None
+172,Slate,Stripes,Amber,Robin Hood,Gold,Forest Night,Star
+173,Forest,Plain,Emerald,Robin Hood,Gold,Midnight Teal,Mushroom
+174,Chestnut,Scallop,Teal,Cap,Gold,Burgundy Night,Star
+175,Chestnut,Spots,Ruby,None,None,Burgundy Night,Mushroom
+176,Cocoa,Plain,Ruby,Robin Hood,Green,Plum Night,None
+177,Slate,Spots,Ruby,None,None,Forest Night,Star
+178,Rust,Scallop,Teal,None,None,Forest Night,Feather
+179,Cocoa,Spots,Teal,Cap,Royal,Plum Night,Feather
+180,Plum,Stripes,Amber,Robin Hood,Green,Midnight Teal,Star
+181,Cocoa,Plain,Teal,Robin Hood,Crimson,Midnight Teal,Star
+182,Plum,Scallop,Emerald,Cap,Royal,Burgundy Night,Feather
+183,Rust,Plain,Amber,Robin Hood,Gold,Charcoal,Star
+184,Forest,Plain,Violet,Cap,Crimson,Deep Navy,Feather
+185,Plum,Plain,Amber,Robin Hood,Green,Moss Dark,Feather
+186,Forest,Stripes,Sapphire,Beanie,Gold,Deep Navy,Star
+187,Cocoa,Spots,Emerald,Robin Hood,Crimson,Moss Dark,Star
+188,Slate,Plain,Teal,None,None,Deep Navy,None
+189,Forest,Stripes,Amber,Beanie,Gold,Plum Night,Feather
+190,Plum,Spots,Ruby,Beanie,Green,Moss Dark,Star
+191,Rust,Plain,Sapphire,Robin Hood,Gold,Midnight Teal,Feather
+192,Chestnut,Scallop,Amber,Wizard,Royal,Charcoal,Mushroom
+193,Chestnut,Plain,Amber,Wizard,Gold,Ocean Deep,Star
+194,Rust,Stripes,Violet,Cap,Gold,Burgundy Night,Mushroom
+195,Rust,Plain,Emerald,Cap,Green,Moss Dark,Star
+196,Forest,Plain,Teal,Robin Hood,Crimson,Deep Navy,Feather
+197,Ash,Spots,Emerald,Cap,Royal,Ocean Deep,Feather
+198,Chestnut,Spots,Ruby,Wizard,Green,Midnight Teal,Mushroom
+199,Chestnut,Stripes,Ruby,None,None,Burgundy Night,Feather
+200,Ash,Spots,Ruby,Robin Hood,Crimson,Forest Night,Star
+201,Sand,Plain,Teal,Wizard,Green,Ocean Deep,Feather
+202,Rust,Stripes,Sapphire,Robin Hood,Crimson,Plum Night,None
+203,Forest,Spots,Ruby,Robin Hood,Green,Burgundy Night,None
+204,Slate,Spots,Teal,Cap,Gold,Burgundy Night,Star
+205,Cocoa,Stripes,Teal,None,None,Deep Navy,None
+206,Plum,Spots,Violet,Cap,Gold,Moss Dark,Mushroom
+207,Slate,Plain,Amber,Beanie,Green,Forest Night,Feather
+208,Ash,Plain,Teal,Robin Hood,Green,Plum Night,Mushroom
+209,Forest,Stripes,Sapphire,Cap,Gold,Midnight Teal,None
+210,Sand,Scallop,Amber,Cap,Crimson,Charcoal,Feather
+211,Cocoa,Plain,Teal,Wizard,Crimson,Midnight Teal,None
+212,Cocoa,Stripes,Sapphire,Beanie,Royal,Charcoal,Star
+213,Cocoa,Spots,Violet,Wizard,Crimson,Midnight Teal,Feather
+214,Cocoa,Scallop,Teal,None,None,Midnight Teal,Star
+215,Sand,Stripes,Amber,Beanie,Green,Charcoal,Star
+216,Plum,Stripes,Violet,Beanie,Gold,Charcoal,Star
+217,Forest,Scallop,Amber,None,None,Plum Night,None
+218,Forest,Spots,Emerald,Robin Hood,Crimson,Deep Navy,Star
+219,Slate,Scallop,Violet,Wizard,Green,Burgundy Night,Feather
+220,Ash,Spots,Teal,Cap,Gold,Deep Navy,None
+221,Forest,Plain,Sapphire,Cap,Green,Burgundy Night,Star
+222,Ash,Stripes,Emerald,Robin Hood,Royal,Burgundy Night,Feather
+223,Sand,Stripes,Sapphire,Beanie,Royal,Burgundy Night,Mushroom
+224,Chestnut,Plain,Teal,Robin Hood,Green,Moss Dark,Feather
+225,Sand,Scallop,Amber,None,None,Burgundy Night,Star
+226,Ash,Stripes,Teal,None,None,Moss Dark,Star
+227,Rust,Spots,Violet,Cap,Green,Moss Dark,Mushroom
+228,Cocoa,Scallop,Emerald,None,None,Deep Navy,Mushroom
+229,Forest,Scallop,Sapphire,Robin Hood,Green,Plum Night,Feather
+230,Rust,Stripes,Violet,Beanie,Green,Plum Night,None
+231,Ash,Spots,Violet,Wizard,Gold,Forest Night,Feather
+232,Ash,Scallop,Violet,None,None,Burgundy Night,Star
+233,Chestnut,Plain,Teal,Beanie,Royal,Charcoal,Mushroom
+234,Rust,Stripes,Teal,Beanie,Gold,Plum Night,Star
+235,Forest,Plain,Emerald,None,None,Moss Dark,Feather
+236,Rust,Spots,Violet,None,None,Forest Night,Mushroom
+237,Sand,Plain,Violet,Wizard,Royal,Plum Night,None
+238,Forest,Stripes,Ruby,Beanie,Royal,Charcoal,Mushroom
+239,Sand,Stripes,Teal,None,None,Ocean Deep,Mushroom
+240,Slate,Scallop,Amber,Beanie,Crimson,Deep Navy,None
+241,Cocoa,Plain,Emerald,Beanie,Crimson,Ocean Deep,Star
+242,Rust,Plain,Emerald,Cap,Royal,Charcoal,Feather
+243,Slate,Spots,Amber,Beanie,Crimson,Burgundy Night,Mushroom
+244,Rust,Stripes,Ruby,Beanie,Green,Charcoal,Mushroom
+245,Sand,Stripes,Ruby,Cap,Crimson,Ocean Deep,Star
+246,Plum,Plain,Ruby,Robin Hood,Crimson,Charcoal,Feather
+247,Slate,Plain,Violet,Beanie,Royal,Ocean Deep,Mushroom
+248,Slate,Stripes,Ruby,Robin Hood,Gold,Plum Night,Feather
+249,Cocoa,Stripes,Violet,Robin Hood,Royal,Forest Night,Star
+250,Forest,Spots,Teal,None,None,Forest Night,Mushroom
+251,Chestnut,Stripes,Emerald,Beanie,Green,Ocean Deep,None
+252,Forest,Spots,Sapphire,Cap,Green,Forest Night,Mushroom
+253,Forest,Spots,Violet,Wizard,Crimson,Forest Night,Star
+254,Plum,Scallop,Sapphire,Beanie,Gold,Moss Dark,Feather
+255,Slate,Scallop,Teal,Robin Hood,Royal,Deep Navy,Star
+256,Ash,Scallop,Amber,Beanie,Green,Midnight Teal,Star
+257,Slate,Scallop,Sapphire,Beanie,Green,Forest Night,None
+258,Slate,Stripes,Sapphire,Cap,Green,Moss Dark,None
+259,Plum,Stripes,Ruby,Beanie,Gold,Charcoal,Feather
+260,Slate,Scallop,Emerald,Beanie,Green,Deep Navy,Mushroom
+261,Forest,Stripes,Teal,Cap,Crimson,Burgundy Night,Star
+262,Forest,Spots,Emerald,None,None,Plum Night,Mushroom
+263,Cocoa,Plain,Emerald,Robin Hood,Royal,Plum Night,Feather
+264,Plum,Plain,Amber,Wizard,Gold,Deep Navy,Feather
+265,Slate,Stripes,Teal,Wizard,Crimson,Burgundy Night,None
+266,Cocoa,Stripes,Ruby,Robin Hood,Gold,Forest Night,Star
+267,Forest,Scallop,Violet,Wizard,Crimson,Plum Night,Star
+268,Plum,Scallop,Emerald,None,None,Ocean Deep,Mushroom
+269,Sand,Stripes,Sapphire,Cap,Gold,Midnight Teal,Star
+270,Slate,Scallop,Amber,None,None,Moss Dark,Star
+271,Ash,Scallop,Emerald,Robin Hood,Gold,Forest Night,Star
+272,Cocoa,Spots,Ruby,Wizard,Royal,Plum Night,None
+273,Forest,Stripes,Amber,Beanie,Royal,Plum Night,Feather
+274,Ash,Scallop,Violet,Robin Hood,Crimson,Ocean Deep,Star
+275,Cocoa,Stripes,Violet,Robin Hood,Green,Burgundy Night,None
+276,Cocoa,Plain,Violet,Robin Hood,Royal,Forest Night,Feather
+277,Slate,Scallop,Emerald,None,None,Burgundy Night,Mushroom
+278,Ash,Stripes,Ruby,Wizard,Royal,Burgundy Night,None
+279,Ash,Scallop,Amber,Beanie,Royal,Forest Night,None
+280,Cocoa,Plain,Violet,None,None,Ocean Deep,Feather
+281,Sand,Stripes,Teal,Beanie,Gold,Charcoal,None
+282,Plum,Spots,Violet,Wizard,Gold,Deep Navy,Mushroom
+283,Chestnut,Stripes,Amber,Wizard,Crimson,Ocean Deep,None
+284,Rust,Spots,Emerald,Beanie,Royal,Midnight Teal,Star
+285,Plum,Scallop,Amber,None,None,Forest Night,Feather
+286,Ash,Spots,Teal,Beanie,Green,Midnight Teal,Mushroom
+287,Sand,Plain,Violet,Wizard,Crimson,Charcoal,None
+288,Slate,Spots,Teal,None,None,Charcoal,Mushroom
+289,Forest,Spots,Emerald,Cap,Royal,Deep Navy,None
+290,Forest,Plain,Amber,Wizard,Gold,Charcoal,Mushroom
+291,Slate,Spots,Teal,Robin Hood,Gold,Burgundy Night,Feather
+292,Slate,Plain,Emerald,Wizard,Green,Forest Night,Star
+293,Ash,Spots,Teal,Robin Hood,Crimson,Charcoal,Feather
+294,Slate,Stripes,Violet,Beanie,Royal,Charcoal,None
+295,Slate,Stripes,Emerald,None,None,Forest Night,None
+296,Plum,Spots,Ruby,Robin Hood,Gold,Ocean Deep,Star
+297,Forest,Spots,Violet,Wizard,Royal,Plum Night,Star
+298,Ash,Stripes,Violet,Wizard,Gold,Midnight Teal,Star
+299,Cocoa,Spots,Emerald,Wizard,Royal,Forest Night,Feather
+300,Plum,Stripes,Amber,Cap,Green,Plum Night,Star
+301,Chestnut,Stripes,Violet,None,None,Ocean Deep,Star
+302,Chestnut,Scallop,Violet,Robin Hood,Royal,Deep Navy,None
+303,Plum,Plain,Emerald,Wizard,Crimson,Burgundy Night,Feather
+304,Rust,Scallop,Violet,Wizard,Royal,Midnight Teal,Star
+305,Rust,Scallop,Amber,Robin Hood,Gold,Burgundy Night,Star
+306,Forest,Plain,Emerald,Robin Hood,Royal,Deep Navy,None
+307,Plum,Scallop,Ruby,Beanie,Royal,Plum Night,Star
+308,Chestnut,Spots,Ruby,Beanie,Crimson,Burgundy Night,Star
+309,Forest,Spots,Teal,Beanie,Royal,Moss Dark,Mushroom
+310,Ash,Stripes,Emerald,Cap,Crimson,Plum Night,Feather
+311,Slate,Scallop,Sapphire,Wizard,Crimson,Midnight Teal,Mushroom
+312,Slate,Spots,Ruby,Beanie,Gold,Midnight Teal,None
+313,Chestnut,Plain,Emerald,Wizard,Crimson,Ocean Deep,Star
+314,Plum,Stripes,Ruby,Beanie,Crimson,Burgundy Night,None
+315,Plum,Plain,Ruby,Robin Hood,Green,Moss Dark,None
+316,Forest,Spots,Emerald,Wizard,Crimson,Plum Night,Mushroom
+317,Ash,Plain,Sapphire,Robin Hood,Crimson,Plum Night,Star
+318,Slate,Spots,Teal,Robin Hood,Royal,Forest Night,None
+319,Chestnut,Stripes,Emerald,None,None,Forest Night,Mushroom
+320,Chestnut,Stripes,Amber,Cap,Green,Plum Night,Mushroom
+321,Forest,Scallop,Emerald,Cap,Green,Moss Dark,Star
+322,Chestnut,Scallop,Teal,None,None,Deep Navy,Mushroom
+323,Slate,Scallop,Sapphire,Beanie,Royal,Forest Night,None
+324,Slate,Scallop,Ruby,Wizard,Gold,Burgundy Night,Feather
+325,Forest,Scallop,Ruby,Beanie,Crimson,Moss Dark,None
+326,Plum,Scallop,Ruby,Wizard,Crimson,Charcoal,None
+327,Slate,Spots,Sapphire,Wizard,Crimson,Ocean Deep,Star
+328,Cocoa,Scallop,Amber,Wizard,Royal,Midnight Teal,None
+329,Cocoa,Scallop,Ruby,None,None,Deep Navy,Mushroom
+330,Slate,Scallop,Teal,Cap,Crimson,Charcoal,Feather
+331,Plum,Spots,Emerald,Wizard,Gold,Moss Dark,Feather
+332,Rust,Plain,Amber,Robin Hood,Royal,Charcoal,Mushroom
+333,Chestnut,Scallop,Teal,Robin Hood,Royal,Burgundy Night,Star
+334,Plum,Scallop,Ruby,Cap,Crimson,Ocean Deep,Mushroom
+335,Sand,Spots,Violet,Beanie,Gold,Burgundy Night,None
+336,Ash,Stripes,Emerald,Wizard,Crimson,Deep Navy,Mushroom
+337,Chestnut,Stripes,Emerald,Beanie,Green,Burgundy Night,None
+338,Plum,Plain,Emerald,Robin Hood,Green,Moss Dark,Feather
+339,Cocoa,Stripes,Sapphire,Cap,Royal,Midnight Teal,None
+340,Ash,Spots,Teal,None,None,Forest Night,None
+341,Slate,Spots,Violet,Beanie,Green,Moss Dark,Star
+342,Cocoa,Plain,Teal,Beanie,Gold,Moss Dark,Mushroom
+343,Ash,Plain,Amber,Robin Hood,Gold,Midnight Teal,Feather
+344,Cocoa,Spots,Amber,None,None,Charcoal,Mushroom
+345,Ash,Plain,Teal,Wizard,Green,Burgundy Night,Mushroom
+346,Chestnut,Spots,Emerald,Cap,Royal,Forest Night,None
+347,Plum,Plain,Ruby,Cap,Green,Forest Night,Feather
+348,Cocoa,Spots,Ruby,Wizard,Crimson,Charcoal,None
+349,Slate,Plain,Sapphire,None,None,Moss Dark,Mushroom
+350,Chestnut,Spots,Teal,Wizard,Green,Ocean Deep,Feather
+351,Forest,Plain,Teal,Cap,Gold,Burgundy Night,Star
+352,Rust,Scallop,Emerald,Cap,Crimson,Plum Night,Feather
+353,Slate,Spots,Sapphire,Beanie,Royal,Plum Night,Star
+354,Ash,Stripes,Ruby,Cap,Crimson,Moss Dark,Star
+355,Ash,Scallop,Ruby,Cap,Royal,Plum Night,Star
+356,Cocoa,Scallop,Sapphire,Cap,Royal,Ocean Deep,None
+357,Cocoa,Stripes,Amber,None,None,Deep Navy,Star
+358,Sand,Scallop,Emerald,None,None,Ocean Deep,Mushroom
+359,Ash,Scallop,Ruby,Beanie,Crimson,Burgundy Night,Feather
+360,Ash,Stripes,Ruby,Wizard,Crimson,Moss Dark,Star
+361,Chestnut,Scallop,Sapphire,Cap,Crimson,Burgundy Night,Mushroom
+362,Plum,Stripes,Violet,Wizard,Crimson,Deep Navy,Feather
+363,Forest,Scallop,Emerald,Wizard,Green,Moss Dark,None
+364,Ash,Plain,Violet,Beanie,Green,Midnight Teal,Mushroom
+365,Forest,Plain,Sapphire,None,None,Deep Navy,Star
+366,Plum,Stripes,Ruby,Robin Hood,Royal,Midnight Teal,Feather
+367,Slate,Scallop,Ruby,Wizard,Gold,Midnight Teal,None
+368,Ash,Spots,Emerald,Beanie,Green,Forest Night,Mushroom
+369,Rust,Plain,Teal,None,None,Forest Night,Star
+370,Cocoa,Stripes,Emerald,None,None,Midnight Teal,Star
+371,Ash,Spots,Violet,Beanie,Green,Moss Dark,Mushroom
+372,Plum,Plain,Amber,Beanie,Gold,Deep Navy,Feather
+373,Forest,Scallop,Amber,Robin Hood,Gold,Moss Dark,Feather
+374,Rust,Stripes,Amber,Wizard,Royal,Plum Night,Star
+375,Chestnut,Scallop,Emerald,Cap,Royal,Midnight Teal,Star
+376,Cocoa,Stripes,Violet,Robin Hood,Royal,Plum Night,Star
+377,Chestnut,Scallop,Sapphire,None,None,Charcoal,Feather
+378,Slate,Scallop,Amber,Robin Hood,Crimson,Plum Night,Mushroom
+379,Ash,Plain,Amber,Cap,Royal,Burgundy Night,None
+380,Slate,Scallop,Violet,Wizard,Crimson,Deep Navy,None
+381,Sand,Scallop,Emerald,Cap,Crimson,Forest Night,None
+382,Ash,Plain,Teal,Beanie,Green,Burgundy Night,Star
+383,Forest,Plain,Emerald,Cap,Gold,Moss Dark,Star
+384,Forest,Plain,Sapphire,Robin Hood,Royal,Midnight Teal,None
+385,Cocoa,Spots,Ruby,None,None,Plum Night,Feather
+386,Cocoa,Plain,Amber,Wizard,Royal,Charcoal,None
+387,Ash,Spots,Emerald,Robin Hood,Gold,Charcoal,Star
+388,Plum,Plain,Amber,Cap,Crimson,Plum Night,Mushroom
+389,Sand,Spots,Teal,None,None,Forest Night,Star
+390,Rust,Spots,Ruby,Beanie,Green,Charcoal,Star
+391,Slate,Scallop,Amber,Robin Hood,Green,Plum Night,Feather
+392,Ash,Stripes,Sapphire,None,None,Forest Night,None
+393,Ash,Scallop,Teal,Beanie,Gold,Burgundy Night,Feather
+394,Cocoa,Stripes,Violet,None,None,Burgundy Night,Feather
+395,Rust,Scallop,Sapphire,Beanie,Green,Burgundy Night,None
+396,Ash,Plain,Teal,Cap,Green,Forest Night,Feather
+397,Ash,Stripes,Violet,None,None,Burgundy Night,Star
+398,Sand,Stripes,Teal,Wizard,Crimson,Midnight Teal,Feather
+399,Forest,Scallop,Sapphire,Beanie,Royal,Deep Navy,Feather
+400,Chestnut,Scallop,Violet,Cap,Crimson,Plum Night,Star
+401,Rust,Spots,Ruby,Wizard,Crimson,Charcoal,Mushroom
+402,Slate,Plain,Teal,Wizard,Crimson,Forest Night,Feather
+403,Forest,Plain,Teal,Robin Hood,Crimson,Midnight Teal,Feather
+404,Sand,Spots,Amber,Beanie,Green,Charcoal,None
+405,Forest,Spots,Violet,Wizard,Green,Burgundy Night,Feather
+406,Cocoa,Plain,Sapphire,Robin Hood,Gold,Forest Night,Mushroom
+407,Slate,Stripes,Emerald,None,None,Burgundy Night,Mushroom
+408,Sand,Plain,Teal,Wizard,Crimson,Plum Night,Star
+409,Sand,Plain,Teal,Cap,Crimson,Forest Night,None
+410,Chestnut,Plain,Violet,Wizard,Royal,Plum Night,None
+411,Plum,Stripes,Emerald,Beanie,Crimson,Plum Night,Star
+412,Forest,Plain,Amber,Beanie,Crimson,Plum Night,None
+413,Sand,Stripes,Emerald,Robin Hood,Crimson,Moss Dark,Feather
+414,Ash,Stripes,Emerald,None,None,Moss Dark,Feather
+415,Forest,Scallop,Violet,Wizard,Royal,Plum Night,Mushroom
+416,Ash,Stripes,Sapphire,Beanie,Crimson,Plum Night,Feather
+417,Cocoa,Plain,Violet,None,None,Plum Night,None
+418,Plum,Spots,Emerald,Wizard,Green,Burgundy Night,Mushroom
+419,Forest,Spots,Emerald,Cap,Green,Burgundy Night,None
+420,Cocoa,Spots,Emerald,Robin Hood,Crimson,Forest Night,None
+421,Chestnut,Spots,Emerald,Cap,Gold,Deep Navy,None
+422,Rust,Stripes,Violet,None,None,Charcoal,Mushroom
+423,Plum,Plain,Emerald,Beanie,Gold,Midnight Teal,Mushroom
+424,Slate,Plain,Teal,None,None,Midnight Teal,None
+425,Chestnut,Stripes,Amber,Cap,Crimson,Moss Dark,Mushroom
+426,Cocoa,Spots,Violet,None,None,Burgundy Night,Mushroom
+427,Chestnut,Scallop,Ruby,Beanie,Gold,Deep Navy,Feather
+428,Rust,Scallop,Violet,Robin Hood,Green,Ocean Deep,Feather
+429,Plum,Plain,Sapphire,Beanie,Crimson,Moss Dark,Mushroom
+430,Cocoa,Stripes,Sapphire,Cap,Green,Forest Night,Mushroom
+431,Ash,Plain,Teal,Cap,Green,Ocean Deep,Mushroom
+432,Forest,Plain,Violet,Cap,Gold,Burgundy Night,Feather
+433,Chestnut,Stripes,Teal,Cap,Gold,Burgundy Night,None
+434,Cocoa,Scallop,Emerald,Wizard,Crimson,Midnight Teal,Star
+435,Rust,Scallop,Teal,Wizard,Royal,Plum Night,Star
+436,Ash,Spots,Sapphire,Cap,Gold,Plum Night,Feather
+437,Ash,Stripes,Emerald,None,None,Burgundy Night,Mushroom
+438,Ash,Stripes,Sapphire,Wizard,Crimson,Midnight Teal,None
+439,Ash,Spots,Emerald,Beanie,Green,Plum Night,Star
+440,Sand,Plain,Teal,Robin Hood,Royal,Moss Dark,None
+441,Slate,Scallop,Ruby,Beanie,Royal,Ocean Deep,Mushroom
+442,Sand,Spots,Teal,Cap,Royal,Deep Navy,Mushroom
+443,Cocoa,Spots,Emerald,Beanie,Royal,Ocean Deep,Feather
+444,Forest,Stripes,Amber,None,None,Deep Navy,Mushroom
+445,Cocoa,Scallop,Amber,Robin Hood,Crimson,Charcoal,None
+446,Ash,Stripes,Ruby,Wizard,Green,Forest Night,None
+447,Ash,Plain,Ruby,None,None,Forest Night,Star
+448,Plum,Plain,Amber,Cap,Gold,Burgundy Night,Star
+449,Plum,Spots,Amber,Wizard,Green,Deep Navy,None
+450,Chestnut,Plain,Teal,Cap,Green,Moss Dark,Star
+451,Ash,Stripes,Teal,None,None,Burgundy Night,Star
+452,Rust,Spots,Teal,Wizard,Green,Deep Navy,Star
+453,Ash,Stripes,Ruby,None,None,Burgundy Night,Mushroom
+454,Rust,Scallop,Emerald,Robin Hood,Gold,Plum Night,Feather
+455,Rust,Scallop,Ruby,Robin Hood,Green,Moss Dark,Mushroom
+456,Plum,Spots,Teal,Beanie,Green,Midnight Teal,Feather
+457,Slate,Stripes,Amber,Robin Hood,Crimson,Moss Dark,Mushroom
+458,Ash,Stripes,Sapphire,Cap,Green,Plum Night,Star
+459,Cocoa,Spots,Violet,Wizard,Royal,Burgundy Night,None
+460,Forest,Plain,Amber,None,None,Charcoal,None
+461,Forest,Stripes,Violet,Beanie,Gold,Charcoal,Mushroom
+462,Chestnut,Plain,Violet,Wizard,Crimson,Ocean Deep,None
+463,Sand,Scallop,Sapphire,Wizard,Crimson,Burgundy Night,Star
+464,Plum,Plain,Violet,Robin Hood,Royal,Charcoal,None
+465,Sand,Plain,Amber,None,None,Charcoal,None
+466,Cocoa,Scallop,Sapphire,None,None,Burgundy Night,Feather
+467,Forest,Plain,Emerald,Wizard,Crimson,Plum Night,None
+468,Sand,Plain,Amber,Beanie,Royal,Charcoal,Star
+469,Forest,Scallop,Teal,Beanie,Green,Plum Night,Feather
+470,Chestnut,Stripes,Sapphire,Wizard,Royal,Plum Night,None
+471,Sand,Stripes,Emerald,Cap,Royal,Forest Night,Star
+472,Forest,Stripes,Sapphire,Beanie,Royal,Plum Night,Star
+473,Slate,Stripes,Sapphire,None,None,Midnight Teal,None
+474,Sand,Plain,Teal,Beanie,Gold,Charcoal,Star
+475,Cocoa,Spots,Teal,Cap,Green,Moss Dark,Mushroom
+476,Rust,Spots,Emerald,Cap,Green,Deep Navy,Star
+477,Plum,Plain,Amber,Robin Hood,Royal,Moss Dark,Mushroom
+478,Ash,Plain,Amber,Wizard,Gold,Midnight Teal,Star
+479,Cocoa,Scallop,Amber,Cap,Crimson,Plum Night,Star
+480,Cocoa,Plain,Amber,Cap,Gold,Burgundy Night,Mushroom
+481,Ash,Scallop,Ruby,Wizard,Gold,Moss Dark,Feather
+482,Rust,Stripes,Sapphire,None,None,Deep Navy,Star
+483,Ash,Scallop,Amber,Beanie,Green,Ocean Deep,Star
+484,Rust,Stripes,Ruby,None,None,Charcoal,None
+485,Forest,Spots,Amber,Beanie,Crimson,Deep Navy,None
+486,Forest,Plain,Emerald,None,None,Midnight Teal,Feather
+487,Forest,Plain,Teal,None,None,Charcoal,None
+488,Chestnut,Stripes,Amber,Beanie,Royal,Forest Night,Feather
+489,Sand,Spots,Amber,None,None,Ocean Deep,Feather
+490,Cocoa,Plain,Amber,Cap,Royal,Midnight Teal,Mushroom
+491,Slate,Plain,Violet,Wizard,Royal,Moss Dark,Mushroom
+492,Chestnut,Stripes,Violet,Cap,Gold,Burgundy Night,Mushroom
+493,Chestnut,Plain,Emerald,Cap,Green,Burgundy Night,None
+494,Slate,Spots,Teal,Beanie,Gold,Plum Night,None
+495,Ash,Spots,Amber,Wizard,Crimson,Forest Night,Feather
+496,Sand,Scallop,Teal,Cap,Green,Plum Night,Mushroom
+497,Slate,Plain,Teal,Beanie,Royal,Midnight Teal,Feather
+498,Rust,Plain,Amber,Cap,Crimson,Forest Night,Star
+499,Chestnut,Spots,Sapphire,Cap,Crimson,Ocean Deep,Star
+500,Sand,Scallop,Violet,Beanie,Crimson,Ocean Deep,Mushroom
+501,Ash,Plain,Ruby,Wizard,Gold,Moss Dark,None
+502,Ash,Scallop,Amber,Robin Hood,Royal,Ocean Deep,Star
+503,Forest,Scallop,Teal,Cap,Crimson,Moss Dark,Star
+504,Plum,Scallop,Ruby,Beanie,Green,Moss Dark,Feather
+505,Slate,Scallop,Amber,None,None,Forest Night,Feather
+506,Chestnut,Scallop,Violet,Robin Hood,Royal,Deep Navy,Feather
+507,Slate,Plain,Sapphire,Wizard,Green,Forest Night,Mushroom
+508,Plum,Scallop,Sapphire,Robin Hood,Royal,Moss Dark,Star
+509,Forest,Plain,Amber,Cap,Gold,Plum Night,Star
+510,Slate,Scallop,Sapphire,Wizard,Green,Deep Navy,Star
+511,Forest,Scallop,Sapphire,Wizard,Crimson,Forest Night,Mushroom
+512,Slate,Scallop,Teal,Cap,Crimson,Moss Dark,Mushroom
+513,Slate,Stripes,Ruby,Wizard,Gold,Midnight Teal,None
+514,Forest,Scallop,Violet,Cap,Gold,Charcoal,None
+515,Cocoa,Stripes,Amber,Beanie,Gold,Charcoal,Feather
+516,Chestnut,Stripes,Violet,Cap,Royal,Burgundy Night,Feather
+517,Chestnut,Spots,Ruby,None,None,Midnight Teal,Mushroom
+518,Forest,Scallop,Teal,Cap,Gold,Charcoal,None
+519,Plum,Spots,Amber,Cap,Royal,Forest Night,Star
+520,Forest,Stripes,Violet,Wizard,Green,Moss Dark,Star
+521,Plum,Plain,Amber,None,None,Deep Navy,None
+522,Ash,Plain,Ruby,Wizard,Royal,Plum Night,Star
+523,Slate,Stripes,Amber,Beanie,Crimson,Deep Navy,None
+524,Slate,Stripes,Violet,Robin Hood,Gold,Moss Dark,Feather
+525,Rust,Plain,Teal,Beanie,Crimson,Deep Navy,Star
+526,Chestnut,Scallop,Amber,Wizard,Crimson,Ocean Deep,Star
+527,Slate,Plain,Ruby,Robin Hood,Green,Burgundy Night,Feather
+528,Forest,Scallop,Amber,None,None,Plum Night,Feather
+529,Rust,Spots,Amber,None,None,Ocean Deep,None
+530,Forest,Stripes,Ruby,Beanie,Green,Midnight Teal,Star
+531,Plum,Spots,Emerald,Cap,Royal,Charcoal,Mushroom
+532,Sand,Scallop,Teal,None,None,Deep Navy,Star
+533,Rust,Plain,Ruby,Cap,Gold,Moss Dark,None
+534,Cocoa,Plain,Violet,Wizard,Royal,Ocean Deep,Feather
+535,Sand,Scallop,Amber,Wizard,Gold,Charcoal,Star
+536,Rust,Spots,Ruby,Cap,Green,Midnight Teal,None
+537,Cocoa,Scallop,Ruby,None,None,Charcoal,Star
+538,Rust,Spots,Teal,Wizard,Gold,Midnight Teal,Mushroom
+539,Forest,Scallop,Teal,None,None,Moss Dark,Feather
+540,Cocoa,Scallop,Amber,Robin Hood,Gold,Burgundy Night,None
+541,Cocoa,Stripes,Ruby,Beanie,Royal,Burgundy Night,Star
+542,Plum,Stripes,Amber,None,None,Forest Night,Mushroom
+543,Plum,Scallop,Ruby,Beanie,Crimson,Burgundy Night,Feather
+544,Sand,Plain,Ruby,Wizard,Crimson,Deep Navy,None
+545,Forest,Scallop,Ruby,Robin Hood,Gold,Deep Navy,Star
+546,Plum,Plain,Emerald,Beanie,Royal,Forest Night,Feather
+547,Slate,Spots,Emerald,Robin Hood,Royal,Midnight Teal,Feather
+548,Chestnut,Stripes,Violet,Cap,Green,Forest Night,None
+549,Plum,Spots,Violet,Robin Hood,Green,Deep Navy,Mushroom
+550,Ash,Stripes,Ruby,Wizard,Gold,Deep Navy,Feather
+551,Plum,Stripes,Amber,Cap,Crimson,Midnight Teal,Feather
+552,Sand,Scallop,Violet,Wizard,Crimson,Deep Navy,None
+553,Cocoa,Plain,Violet,None,None,Midnight Teal,Star
+554,Ash,Scallop,Violet,Beanie,Green,Burgundy Night,Feather
+555,Slate,Stripes,Sapphire,Wizard,Royal,Forest Night,Mushroom
+556,Slate,Spots,Ruby,Robin Hood,Royal,Charcoal,Feather
+557,Rust,Stripes,Amber,Cap,Gold,Burgundy Night,Star
+558,Forest,Stripes,Emerald,Wizard,Gold,Charcoal,Star
+559,Ash,Spots,Violet,None,None,Burgundy Night,Mushroom
+560,Rust,Stripes,Violet,Beanie,Green,Forest Night,None
+561,Ash,Stripes,Amber,None,None,Forest Night,None
+562,Ash,Spots,Teal,None,None,Midnight Teal,Star
+563,Ash,Stripes,Violet,Beanie,Royal,Burgundy Night,Star
+564,Forest,Plain,Sapphire,Cap,Gold,Midnight Teal,Star
+565,Cocoa,Scallop,Ruby,Robin Hood,Green,Midnight Teal,Mushroom
+566,Cocoa,Spots,Ruby,Robin Hood,Royal,Charcoal,Mushroom
+567,Cocoa,Spots,Teal,Beanie,Crimson,Deep Navy,Mushroom
+568,Sand,Plain,Sapphire,Beanie,Royal,Deep Navy,Mushroom
+569,Cocoa,Plain,Emerald,Wizard,Royal,Forest Night,Feather
+570,Ash,Plain,Teal,Wizard,Gold,Burgundy Night,Star
+571,Cocoa,Plain,Sapphire,Beanie,Crimson,Plum Night,None
+572,Rust,Spots,Sapphire,Wizard,Royal,Ocean Deep,Star
+573,Forest,Stripes,Sapphire,Beanie,Crimson,Charcoal,Mushroom
+574,Ash,Stripes,Ruby,None,None,Deep Navy,None
+575,Sand,Scallop,Amber,Robin Hood,Gold,Deep Navy,Star
+576,Forest,Spots,Amber,None,None,Forest Night,Star
+577,Slate,Scallop,Sapphire,Wizard,Green,Ocean Deep,Mushroom
+578,Plum,Stripes,Amber,Beanie,Gold,Plum Night,Feather
+579,Rust,Spots,Emerald,Wizard,Crimson,Deep Navy,Star
+580,Slate,Stripes,Ruby,Beanie,Crimson,Moss Dark,Star
+581,Cocoa,Scallop,Ruby,Cap,Green,Plum Night,None
+582,Ash,Stripes,Amber,Wizard,Royal,Ocean Deep,Star
+583,Chestnut,Spots,Emerald,Wizard,Gold,Midnight Teal,Mushroom
+584,Rust,Stripes,Sapphire,Beanie,Royal,Plum Night,Feather
+585,Chestnut,Plain,Ruby,Wizard,Crimson,Midnight Teal,None
+586,Forest,Plain,Ruby,Wizard,Green,Moss Dark,Star
+587,Ash,Plain,Violet,None,None,Charcoal,Feather
+588,Ash,Scallop,Ruby,Wizard,Green,Ocean Deep,Feather
+589,Sand,Plain,Ruby,Cap,Gold,Deep Navy,Star
+590,Rust,Stripes,Ruby,Beanie,Royal,Charcoal,None
+591,Slate,Stripes,Violet,Cap,Crimson,Charcoal,Mushroom
+592,Plum,Plain,Teal,Cap,Green,Forest Night,Star
+593,Cocoa,Plain,Sapphire,Cap,Royal,Burgundy Night,None
+594,Rust,Plain,Ruby,None,None,Ocean Deep,Star
+595,Ash,Plain,Amber,Cap,Royal,Plum Night,Star
+596,Rust,Scallop,Violet,Beanie,Crimson,Ocean Deep,None
+597,Chestnut,Spots,Amber,None,None,Plum Night,Feather
+598,Plum,Stripes,Teal,Wizard,Royal,Plum Night,Mushroom
+599,Plum,Scallop,Violet,None,None,Ocean Deep,Mushroom
+600,Forest,Scallop,Teal,Beanie,Crimson,Deep Navy,None
+601,Chestnut,Scallop,Teal,Beanie,Crimson,Plum Night,None
+602,Sand,Scallop,Ruby,Cap,Gold,Forest Night,Mushroom
+603,Chestnut,Spots,Ruby,Wizard,Crimson,Deep Navy,Feather
+604,Forest,Plain,Emerald,Cap,Green,Midnight Teal,Feather
+605,Cocoa,Stripes,Violet,Wizard,Royal,Burgundy Night,Mushroom
+606,Cocoa,Spots,Ruby,Robin Hood,Royal,Burgundy Night,None
+607,Rust,Spots,Sapphire,Cap,Green,Ocean Deep,Mushroom
+608,Slate,Plain,Emerald,Wizard,Royal,Midnight Teal,Mushroom
+609,Chestnut,Spots,Violet,Wizard,Green,Charcoal,Feather
+610,Forest,Plain,Violet,None,None,Burgundy Night,Mushroom
+611,Forest,Spots,Ruby,Wizard,Gold,Midnight Teal,Mushroom
+612,Slate,Spots,Emerald,Beanie,Royal,Midnight Teal,Feather
+613,Forest,Stripes,Amber,Wizard,Green,Deep Navy,Star
+614,Plum,Scallop,Sapphire,None,None,Plum Night,None
+615,Slate,Spots,Violet,Cap,Gold,Plum Night,Mushroom
+616,Ash,Spots,Teal,Beanie,Gold,Plum Night,Feather
+617,Slate,Scallop,Emerald,Cap,Royal,Deep Navy,None
+618,Chestnut,Plain,Teal,None,None,Ocean Deep,Feather
+619,Sand,Plain,Amber,Cap,Gold,Midnight Teal,Star
+620,Chestnut,Scallop,Emerald,Beanie,Green,Ocean Deep,Feather
+621,Cocoa,Plain,Sapphire,Wizard,Crimson,Moss Dark,Feather
+622,Rust,Stripes,Sapphire,None,None,Charcoal,Mushroom
+623,Cocoa,Spots,Violet,Robin Hood,Gold,Forest Night,None
+624,Slate,Plain,Emerald,Wizard,Royal,Deep Navy,Feather
+625,Chestnut,Stripes,Teal,Cap,Royal,Forest Night,None
+626,Sand,Spots,Teal,Robin Hood,Gold,Plum Night,None
+627,Ash,Stripes,Sapphire,Beanie,Green,Burgundy Night,Mushroom
+628,Cocoa,Plain,Violet,Beanie,Royal,Midnight Teal,Star
+629,Sand,Stripes,Ruby,Wizard,Green,Ocean Deep,None
+630,Slate,Scallop,Teal,Cap,Green,Moss Dark,None
+631,Plum,Spots,Emerald,None,None,Forest Night,Star
+632,Slate,Plain,Emerald,Wizard,Crimson,Forest Night,Mushroom
+633,Rust,Spots,Emerald,None,None,Ocean Deep,None
+634,Slate,Plain,Ruby,Beanie,Green,Moss Dark,Star
+635,Forest,Plain,Emerald,Wizard,Royal,Plum Night,Feather
+636,Forest,Spots,Ruby,Cap,Royal,Burgundy Night,None
+637,Ash,Plain,Ruby,Wizard,Green,Midnight Teal,Feather
+638,Slate,Stripes,Amber,None,None,Forest Night,Feather
+639,Rust,Stripes,Teal,Beanie,Green,Plum Night,None
+640,Sand,Spots,Amber,Robin Hood,Gold,Charcoal,Feather
+641,Slate,Scallop,Sapphire,None,None,Burgundy Night,None
+642,Cocoa,Stripes,Emerald,Wizard,Gold,Ocean Deep,Star
+643,Ash,Spots,Teal,Wizard,Gold,Charcoal,None
+644,Cocoa,Scallop,Sapphire,Robin Hood,Crimson,Deep Navy,Mushroom
+645,Rust,Scallop,Violet,Beanie,Gold,Moss Dark,Star
+646,Ash,Stripes,Sapphire,None,None,Ocean Deep,None
+647,Plum,Plain,Emerald,Robin Hood,Gold,Forest Night,Feather
+648,Forest,Spots,Violet,Wizard,Royal,Burgundy Night,Mushroom
+649,Slate,Scallop,Violet,Wizard,Royal,Moss Dark,None
+650,Forest,Plain,Ruby,Cap,Green,Charcoal,Feather
+651,Plum,Stripes,Sapphire,Beanie,Green,Plum Night,Star
+652,Rust,Plain,Amber,Robin Hood,Royal,Plum Night,Feather
+653,Cocoa,Plain,Amber,Beanie,Royal,Charcoal,None
+654,Sand,Scallop,Ruby,Wizard,Green,Midnight Teal,Star
+655,Rust,Scallop,Amber,None,None,Plum Night,Feather
+656,Sand,Stripes,Ruby,None,None,Midnight Teal,None
+657,Slate,Scallop,Teal,Beanie,Gold,Forest Night,Feather
+658,Cocoa,Plain,Ruby,Wizard,Gold,Plum Night,Star
+659,Rust,Stripes,Ruby,None,None,Charcoal,Mushroom
+660,Sand,Stripes,Violet,Robin Hood,Gold,Forest Night,Star
+661,Chestnut,Spots,Teal,Robin Hood,Gold,Plum Night,Star
+662,Cocoa,Plain,Emerald,Wizard,Crimson,Charcoal,Star
+663,Forest,Stripes,Emerald,Wizard,Royal,Midnight Teal,Star
+664,Forest,Stripes,Violet,Wizard,Gold,Midnight Teal,None
+665,Chestnut,Plain,Violet,Robin Hood,Crimson,Forest Night,Star
+666,Chestnut,Scallop,Ruby,Beanie,Crimson,Ocean Deep,None
+667,Slate,Scallop,Ruby,Wizard,Royal,Midnight Teal,None
+668,Slate,Plain,Sapphire,Robin Hood,Royal,Midnight Teal,Star
+669,Plum,Scallop,Sapphire,Cap,Gold,Midnight Teal,None
+670,Plum,Plain,Violet,Robin Hood,Gold,Midnight Teal,Feather
+671,Plum,Stripes,Violet,Beanie,Green,Midnight Teal,Mushroom
+672,Rust,Plain,Emerald,Beanie,Gold,Ocean Deep,Star
+673,Chestnut,Stripes,Violet,Cap,Gold,Forest Night,Mushroom
+674,Cocoa,Spots,Amber,None,None,Forest Night,Feather
+675,Rust,Stripes,Ruby,Cap,Royal,Burgundy Night,Star
+676,Forest,Plain,Sapphire,None,None,Charcoal,Feather
+677,Forest,Plain,Violet,None,None,Forest Night,None
+678,Chestnut,Scallop,Violet,None,None,Charcoal,Mushroom
+679,Chestnut,Stripes,Amber,Wizard,Royal,Forest Night,Mushroom
+680,Ash,Scallop,Emerald,Robin Hood,Royal,Plum Night,Mushroom
+681,Sand,Spots,Teal,Robin Hood,Royal,Plum Night,Feather
+682,Chestnut,Plain,Emerald,Robin Hood,Green,Burgundy Night,None
+683,Ash,Plain,Emerald,Wizard,Crimson,Plum Night,None
+684,Rust,Plain,Teal,Robin Hood,Green,Plum Night,None
+685,Forest,Plain,Ruby,Wizard,Crimson,Moss Dark,Feather
+686,Forest,Plain,Ruby,None,None,Midnight Teal,Feather
+687,Plum,Plain,Sapphire,Cap,Green,Charcoal,Feather
+688,Rust,Plain,Teal,Beanie,Royal,Midnight Teal,Feather
+689,Plum,Plain,Sapphire,Robin Hood,Royal,Moss Dark,Feather
+690,Forest,Plain,Ruby,Beanie,Royal,Forest Night,Star
+691,Plum,Plain,Emerald,Robin Hood,Gold,Charcoal,Mushroom
+692,Cocoa,Scallop,Teal,Wizard,Green,Moss Dark,Mushroom
+693,Ash,Plain,Amber,Robin Hood,Crimson,Burgundy Night,None
+694,Sand,Plain,Violet,Cap,Green,Plum Night,None
+695,Plum,Spots,Emerald,Wizard,Green,Ocean Deep,Mushroom
+696,Rust,Plain,Emerald,Beanie,Gold,Ocean Deep,None
+697,Plum,Plain,Teal,Cap,Green,Ocean Deep,Star
+698,Slate,Spots,Amber,None,None,Ocean Deep,Star
+699,Cocoa,Spots,Violet,Wizard,Crimson,Deep Navy,None
+700,Slate,Plain,Teal,Robin Hood,Crimson,Charcoal,Mushroom
+701,Rust,Stripes,Violet,None,None,Moss Dark,Mushroom
+702,Cocoa,Spots,Ruby,None,None,Moss Dark,Feather
+703,Slate,Plain,Sapphire,Wizard,Green,Ocean Deep,Feather
+704,Chestnut,Plain,Emerald,None,None,Charcoal,Star
+705,Plum,Scallop,Sapphire,Robin Hood,Royal,Plum Night,Mushroom
+706,Sand,Spots,Violet,Wizard,Green,Moss Dark,Mushroom
+707,Rust,Stripes,Ruby,Robin Hood,Crimson,Deep Navy,Star
+708,Sand,Plain,Ruby,Cap,Gold,Burgundy Night,Feather
+709,Ash,Stripes,Ruby,Beanie,Green,Plum Night,None
+710,Ash,Spots,Amber,Beanie,Green,Moss Dark,Star
+711,Chestnut,Spots,Sapphire,Beanie,Crimson,Moss Dark,Star
+712,Forest,Spots,Teal,Wizard,Gold,Plum Night,Star
+713,Slate,Spots,Ruby,None,None,Burgundy Night,None
+714,Slate,Spots,Teal,Robin Hood,Royal,Midnight Teal,Mushroom
+715,Rust,Spots,Ruby,None,None,Burgundy Night,Feather
+716,Ash,Plain,Violet,Robin Hood,Crimson,Forest Night,Star
+717,Ash,Scallop,Sapphire,None,None,Plum Night,Feather
+718,Slate,Spots,Violet,Beanie,Crimson,Plum Night,Feather
+719,Chestnut,Plain,Teal,Cap,Gold,Charcoal,Feather
+720,Slate,Plain,Sapphire,Beanie,Royal,Burgundy Night,Feather
+721,Plum,Stripes,Sapphire,Beanie,Green,Ocean Deep,Mushroom
+722,Sand,Stripes,Amber,None,None,Midnight Teal,Mushroom
+723,Cocoa,Scallop,Amber,Cap,Crimson,Burgundy Night,None
+724,Cocoa,Stripes,Emerald,Beanie,Green,Plum Night,Star
+725,Rust,Stripes,Emerald,None,None,Midnight Teal,None
+726,Cocoa,Plain,Teal,Wizard,Royal,Midnight Teal,Feather
+727,Sand,Plain,Ruby,Beanie,Royal,Ocean Deep,None
+728,Plum,Stripes,Teal,Robin Hood,Royal,Midnight Teal,Mushroom
+729,Plum,Scallop,Amber,Cap,Crimson,Moss Dark,Star
+730,Slate,Scallop,Amber,Wizard,Green,Charcoal,Feather
+731,Ash,Stripes,Emerald,Wizard,Crimson,Moss Dark,Feather
+732,Forest,Stripes,Emerald,Wizard,Crimson,Moss Dark,Mushroom
+733,Slate,Plain,Sapphire,None,None,Midnight Teal,Star
+734,Chestnut,Scallop,Emerald,None,None,Moss Dark,None
+735,Ash,Stripes,Amber,Wizard,Gold,Plum Night,Feather
+736,Cocoa,Stripes,Ruby,Wizard,Green,Ocean Deep,None
+737,Rust,Plain,Ruby,Robin Hood,Green,Forest Night,None
+738,Sand,Spots,Emerald,Beanie,Gold,Moss Dark,None
+739,Sand,Stripes,Violet,Wizard,Crimson,Ocean Deep,Mushroom
+740,Sand,Stripes,Emerald,Cap,Royal,Ocean Deep,None
+741,Rust,Scallop,Violet,Wizard,Green,Charcoal,Mushroom
+742,Ash,Stripes,Ruby,Beanie,Green,Charcoal,None
+743,Rust,Spots,Sapphire,Cap,Green,Burgundy Night,Feather
+744,Plum,Stripes,Amber,Robin Hood,Green,Burgundy Night,None
+745,Slate,Plain,Emerald,Wizard,Royal,Charcoal,Star
+746,Slate,Plain,Violet,None,None,Ocean Deep,Mushroom
+747,Ash,Scallop,Violet,Wizard,Gold,Plum Night,Star
+748,Rust,Spots,Violet,None,None,Midnight Teal,Feather
+749,Forest,Plain,Amber,Wizard,Gold,Forest Night,Mushroom
+750,Rust,Spots,Teal,Wizard,Gold,Moss Dark,Feather
+751,Chestnut,Scallop,Emerald,None,None,Plum Night,Feather
+752,Chestnut,Scallop,Amber,Beanie,Crimson,Ocean Deep,Mushroom
+753,Forest,Scallop,Violet,Beanie,Royal,Midnight Teal,Feather
+754,Forest,Stripes,Teal,Cap,Green,Charcoal,None
+755,Cocoa,Scallop,Ruby,Beanie,Green,Moss Dark,Star
+756,Cocoa,Plain,Sapphire,Cap,Royal,Ocean Deep,None
+757,Chestnut,Scallop,Teal,Cap,Green,Midnight Teal,Star
+758,Sand,Scallop,Amber,Cap,Green,Moss Dark,Mushroom
+759,Chestnut,Scallop,Sapphire,Robin Hood,Royal,Plum Night,None
+760,Cocoa,Plain,Ruby,None,None,Deep Navy,None
+761,Ash,Spots,Ruby,Robin Hood,Royal,Plum Night,Star
+762,Rust,Stripes,Sapphire,Wizard,Royal,Plum Night,Mushroom
+763,Sand,Stripes,Violet,None,None,Deep Navy,Mushroom
+764,Slate,Stripes,Sapphire,Wizard,Green,Ocean Deep,None
+765,Ash,Scallop,Teal,Beanie,Gold,Charcoal,Star
+766,Ash,Spots,Violet,Cap,Green,Moss Dark,Star
+767,Ash,Plain,Violet,Cap,Green,Burgundy Night,Star
+768,Rust,Stripes,Emerald,Cap,Royal,Burgundy Night,Mushroom
+769,Chestnut,Plain,Emerald,None,None,Deep Navy,None
+770,Forest,Scallop,Ruby,Cap,Crimson,Forest Night,None
+771,Sand,Spots,Violet,Cap,Green,Ocean Deep,Star
+772,Slate,Stripes,Violet,None,None,Moss Dark,None
+773,Rust,Stripes,Teal,Beanie,Royal,Forest Night,Mushroom
+774,Ash,Stripes,Sapphire,Cap,Crimson,Plum Night,Star
+775,Slate,Spots,Violet,Wizard,Green,Charcoal,Feather
+776,Plum,Spots,Amber,Robin Hood,Royal,Forest Night,None
+777,Chestnut,Plain,Sapphire,None,None,Ocean Deep,Feather
+778,Rust,Scallop,Amber,Robin Hood,Royal,Charcoal,Mushroom
+779,Slate,Plain,Emerald,Wizard,Royal,Plum Night,Feather
+780,Sand,Scallop,Amber,Beanie,Gold,Plum Night,Feather
+781,Forest,Scallop,Teal,Wizard,Green,Midnight Teal,Mushroom
+782,Cocoa,Stripes,Emerald,Wizard,Green,Charcoal,Mushroom
+783,Plum,Stripes,Amber,Wizard,Green,Ocean Deep,Mushroom
+784,Forest,Plain,Violet,Wizard,Green,Moss Dark,Star
+785,Chestnut,Spots,Ruby,Wizard,Green,Burgundy Night,None
+786,Chestnut,Stripes,Sapphire,Beanie,Royal,Midnight Teal,Feather
+787,Chestnut,Plain,Ruby,Wizard,Crimson,Burgundy Night,Star
+788,Chestnut,Scallop,Violet,Cap,Crimson,Deep Navy,None
+789,Slate,Spots,Violet,Cap,Green,Charcoal,Mushroom
+790,Plum,Stripes,Teal,Cap,Gold,Deep Navy,Star
+791,Forest,Scallop,Sapphire,None,None,Midnight Teal,Mushroom
+792,Cocoa,Plain,Ruby,Beanie,Gold,Ocean Deep,Mushroom
+793,Rust,Stripes,Emerald,None,None,Forest Night,Feather
+794,Ash,Stripes,Amber,Cap,Royal,Forest Night,None
+795,Chestnut,Scallop,Emerald,Beanie,Gold,Midnight Teal,Star
+796,Forest,Scallop,Ruby,None,None,Midnight Teal,Mushroom
+797,Forest,Spots,Amber,Beanie,Green,Moss Dark,Star
+798,Slate,Scallop,Sapphire,Wizard,Crimson,Midnight Teal,None
+799,Plum,Scallop,Violet,Beanie,Green,Burgundy Night,None
+800,Slate,Plain,Amber,Cap,Gold,Burgundy Night,Star
+801,Rust,Plain,Violet,Wizard,Gold,Ocean Deep,Star
+802,Ash,Plain,Emerald,Robin Hood,Crimson,Charcoal,Star
+803,Slate,Plain,Emerald,None,None,Moss Dark,Mushroom
+804,Sand,Spots,Teal,Cap,Gold,Charcoal,Feather
+805,Sand,Spots,Amber,Robin Hood,Royal,Burgundy Night,Star
+806,Ash,Scallop,Violet,Cap,Royal,Ocean Deep,Feather
+807,Chestnut,Stripes,Ruby,Wizard,Crimson,Forest Night,None
+808,Chestnut,Spots,Teal,None,None,Charcoal,None
+809,Slate,Stripes,Amber,Wizard,Gold,Moss Dark,None
+810,Forest,Spots,Emerald,Cap,Green,Ocean Deep,Feather
+811,Cocoa,Stripes,Amber,Beanie,Crimson,Burgundy Night,None
+812,Slate,Spots,Teal,Wizard,Royal,Ocean Deep,Feather
+813,Cocoa,Stripes,Ruby,Wizard,Green,Midnight Teal,Star
+814,Ash,Spots,Violet,None,None,Forest Night,Feather
+815,Sand,Spots,Ruby,Beanie,Royal,Deep Navy,Feather
+816,Chestnut,Scallop,Teal,Robin Hood,Green,Moss Dark,Mushroom
+817,Slate,Plain,Teal,Beanie,Gold,Forest Night,None
+818,Slate,Scallop,Amber,Wizard,Royal,Moss Dark,Mushroom
+819,Ash,Plain,Sapphire,Cap,Green,Plum Night,Feather
+820,Ash,Scallop,Teal,None,None,Deep Navy,Feather
+821,Forest,Plain,Sapphire,Beanie,Crimson,Forest Night,Mushroom
+822,Cocoa,Scallop,Violet,None,None,Plum Night,Mushroom
+823,Cocoa,Scallop,Violet,None,None,Moss Dark,Mushroom
+824,Chestnut,Spots,Teal,Cap,Royal,Deep Navy,Star
+825,Slate,Stripes,Emerald,Beanie,Green,Plum Night,Mushroom
+826,Slate,Stripes,Sapphire,Robin Hood,Gold,Moss Dark,Mushroom
+827,Forest,Plain,Violet,Robin Hood,Crimson,Plum Night,Mushroom
+828,Slate,Plain,Teal,Beanie,Royal,Ocean Deep,None
+829,Sand,Plain,Violet,Wizard,Crimson,Ocean Deep,None
+830,Rust,Stripes,Teal,Beanie,Green,Charcoal,None
+831,Rust,Scallop,Teal,Cap,Green,Charcoal,Feather
+832,Sand,Plain,Amber,None,None,Forest Night,Star
+833,Cocoa,Spots,Violet,Cap,Gold,Charcoal,None
+834,Ash,Scallop,Sapphire,None,None,Midnight Teal,Feather
+835,Rust,Plain,Amber,Robin Hood,Gold,Charcoal,Feather
+836,Slate,Stripes,Violet,None,None,Plum Night,Star
+837,Sand,Stripes,Ruby,None,None,Forest Night,Mushroom
+838,Cocoa,Stripes,Emerald,None,None,Moss Dark,Star
+839,Cocoa,Plain,Sapphire,Cap,Gold,Forest Night,Mushroom
+840,Plum,Spots,Amber,None,None,Burgundy Night,None
+841,Plum,Scallop,Ruby,Robin Hood,Gold,Deep Navy,Star
+842,Forest,Scallop,Ruby,Beanie,Gold,Plum Night,None
+843,Cocoa,Scallop,Emerald,None,None,Moss Dark,Star
+844,Slate,Spots,Emerald,None,None,Burgundy Night,Star
+845,Ash,Stripes,Emerald,Cap,Royal,Forest Night,Star
+846,Cocoa,Stripes,Emerald,Beanie,Green,Midnight Teal,Mushroom
+847,Chestnut,Plain,Sapphire,Robin Hood,Crimson,Burgundy Night,Mushroom
+848,Ash,Stripes,Sapphire,None,None,Burgundy Night,Star
+849,Cocoa,Spots,Violet,Beanie,Gold,Plum Night,Mushroom
+850,Slate,Plain,Sapphire,Robin Hood,Green,Ocean Deep,Mushroom
+851,Sand,Plain,Violet,Beanie,Crimson,Ocean Deep,Mushroom
+852,Cocoa,Spots,Ruby,Wizard,Royal,Forest Night,Feather
+853,Forest,Scallop,Sapphire,Beanie,Green,Burgundy Night,Feather
+854,Plum,Spots,Teal,None,None,Forest Night,Feather
+855,Forest,Scallop,Violet,Beanie,Crimson,Charcoal,None
+856,Forest,Stripes,Emerald,Beanie,Royal,Plum Night,None
+857,Plum,Scallop,Violet,None,None,Moss Dark,None
+858,Rust,Stripes,Violet,Beanie,Royal,Plum Night,None
+859,Slate,Plain,Ruby,Wizard,Green,Deep Navy,Mushroom
+860,Ash,Stripes,Violet,Cap,Green,Moss Dark,Feather
+861,Plum,Scallop,Ruby,Beanie,Royal,Deep Navy,Star
+862,Slate,Scallop,Ruby,Robin Hood,Royal,Forest Night,Star
+863,Cocoa,Plain,Ruby,Robin Hood,Royal,Forest Night,None
+864,Chestnut,Stripes,Ruby,Robin Hood,Green,Ocean Deep,Feather
+865,Chestnut,Spots,Sapphire,Cap,Crimson,Ocean Deep,Mushroom
+866,Chestnut,Spots,Emerald,Robin Hood,Gold,Forest Night,None
+867,Cocoa,Stripes,Violet,Wizard,Green,Plum Night,None
+868,Slate,Stripes,Amber,Beanie,Royal,Ocean Deep,Mushroom
+869,Ash,Plain,Amber,Wizard,Green,Plum Night,Mushroom
+870,Rust,Spots,Teal,Robin Hood,Crimson,Forest Night,Mushroom
+871,Chestnut,Stripes,Ruby,Cap,Green,Burgundy Night,Feather
+872,Ash,Scallop,Violet,None,None,Deep Navy,Feather
+873,Rust,Spots,Sapphire,Beanie,Gold,Charcoal,Star
+874,Rust,Stripes,Ruby,Robin Hood,Green,Charcoal,Mushroom
+875,Slate,Spots,Sapphire,Robin Hood,Royal,Deep Navy,Star
+876,Chestnut,Plain,Violet,Beanie,Royal,Burgundy Night,Star
+877,Sand,Spots,Emerald,Cap,Gold,Forest Night,Feather
+878,Ash,Stripes,Ruby,Beanie,Gold,Midnight Teal,Feather
+879,Ash,Plain,Amber,Wizard,Royal,Midnight Teal,None
+880,Rust,Stripes,Amber,Robin Hood,Royal,Plum Night,Star
+881,Cocoa,Stripes,Ruby,Cap,Gold,Deep Navy,Mushroom
+882,Chestnut,Spots,Emerald,Cap,Crimson,Plum Night,None
+883,Chestnut,Scallop,Amber,Beanie,Green,Moss Dark,Mushroom
+884,Slate,Spots,Violet,Beanie,Crimson,Midnight Teal,None
+885,Forest,Spots,Sapphire,Beanie,Gold,Moss Dark,Star
+886,Slate,Plain,Ruby,Robin Hood,Royal,Deep Navy,Star
+887,Slate,Plain,Emerald,None,None,Charcoal,Star
+888,Chestnut,Scallop,Amber,Cap,Royal,Forest Night,None
+889,Forest,Scallop,Emerald,Cap,Crimson,Forest Night,Star
+890,Chestnut,Plain,Teal,Cap,Green,Ocean Deep,Mushroom
+891,Chestnut,Scallop,Teal,Beanie,Gold,Midnight Teal,Mushroom
+892,Ash,Spots,Sapphire,Cap,Green,Midnight Teal,Star
+893,Ash,Plain,Violet,Beanie,Green,Burgundy Night,Star
+894,Sand,Plain,Sapphire,Robin Hood,Gold,Ocean Deep,None
+895,Sand,Plain,Amber,None,None,Ocean Deep,None
+896,Forest,Scallop,Sapphire,Wizard,Gold,Moss Dark,Mushroom
+897,Plum,Stripes,Violet,None,None,Charcoal,Star
+898,Sand,Stripes,Teal,Beanie,Green,Plum Night,None
+899,Slate,Plain,Sapphire,None,None,Deep Navy,Feather
+900,Rust,Spots,Amber,Robin Hood,Gold,Forest Night,Star
+901,Ash,Plain,Ruby,Beanie,Crimson,Plum Night,Mushroom
+902,Forest,Scallop,Emerald,None,None,Burgundy Night,None
+903,Ash,Plain,Violet,Robin Hood,Green,Midnight Teal,None
+904,Cocoa,Spots,Emerald,Beanie,Green,Deep Navy,Star
+905,Sand,Scallop,Teal,Robin Hood,Green,Burgundy Night,Feather
+906,Sand,Scallop,Amber,Robin Hood,Green,Plum Night,Feather
+907,Sand,Plain,Sapphire,Robin Hood,Crimson,Moss Dark,Mushroom
+908,Slate,Stripes,Violet,Beanie,Gold,Plum Night,Star
+909,Sand,Plain,Sapphire,None,None,Plum Night,None
+910,Cocoa,Scallop,Amber,Robin Hood,Royal,Plum Night,Feather
+911,Rust,Spots,Teal,None,None,Moss Dark,Star
+912,Plum,Spots,Amber,None,None,Charcoal,Feather
+913,Plum,Scallop,Violet,Wizard,Royal,Moss Dark,None
+914,Rust,Scallop,Emerald,Wizard,Gold,Ocean Deep,Star
+915,Plum,Plain,Amber,None,None,Deep Navy,Star
+916,Rust,Plain,Sapphire,Wizard,Gold,Plum Night,Star
+917,Forest,Spots,Sapphire,Robin Hood,Royal,Plum Night,Star
+918,Slate,Plain,Violet,None,None,Burgundy Night,Feather
+919,Ash,Spots,Teal,None,None,Midnight Teal,None
+920,Forest,Plain,Emerald,Wizard,Royal,Moss Dark,None
+921,Slate,Scallop,Sapphire,Cap,Gold,Moss Dark,Mushroom
+922,Chestnut,Plain,Violet,Wizard,Crimson,Deep Navy,None
+923,Chestnut,Scallop,Ruby,None,None,Charcoal,Feather
+924,Plum,Stripes,Sapphire,Robin Hood,Gold,Moss Dark,None
+925,Rust,Plain,Emerald,None,None,Midnight Teal,Mushroom
+926,Ash,Spots,Teal,Robin Hood,Crimson,Moss Dark,Mushroom
+927,Sand,Stripes,Violet,None,None,Midnight Teal,Mushroom
+928,Slate,Plain,Ruby,Wizard,Crimson,Ocean Deep,None
+929,Plum,Plain,Teal,Robin Hood,Royal,Ocean Deep,Mushroom
+930,Slate,Plain,Amber,None,None,Charcoal,Mushroom
+931,Rust,Stripes,Teal,Robin Hood,Crimson,Burgundy Night,Mushroom
+932,Sand,Stripes,Ruby,Cap,Green,Ocean Deep,None
+933,Ash,Spots,Amber,Robin Hood,Gold,Deep Navy,Star
+934,Sand,Spots,Teal,Wizard,Gold,Midnight Teal,Mushroom
+935,Sand,Plain,Sapphire,Wizard,Crimson,Moss Dark,Feather
+936,Sand,Stripes,Amber,None,None,Midnight Teal,Feather
+937,Sand,Stripes,Sapphire,Cap,Gold,Deep Navy,Feather
+938,Rust,Scallop,Amber,Beanie,Crimson,Charcoal,None
+939,Ash,Stripes,Emerald,Beanie,Royal,Plum Night,None
+940,Forest,Stripes,Emerald,Robin Hood,Crimson,Ocean Deep,Mushroom
+941,Forest,Scallop,Violet,Wizard,Green,Midnight Teal,Star
+942,Forest,Plain,Ruby,None,None,Midnight Teal,Star
+943,Sand,Stripes,Ruby,Cap,Gold,Plum Night,Mushroom
+944,Slate,Scallop,Amber,Cap,Gold,Midnight Teal,Mushroom
+945,Ash,Spots,Sapphire,Wizard,Crimson,Charcoal,Feather
+946,Sand,Scallop,Sapphire,Beanie,Royal,Charcoal,Star
+947,Chestnut,Plain,Sapphire,Beanie,Green,Moss Dark,Star
+948,Rust,Plain,Violet,None,None,Moss Dark,Mushroom
+949,Cocoa,Plain,Ruby,Robin Hood,Crimson,Deep Navy,Star
+950,Forest,Plain,Teal,Cap,Royal,Charcoal,Star
+951,Plum,Plain,Ruby,Robin Hood,Crimson,Burgundy Night,None
+952,Chestnut,Spots,Ruby,Beanie,Crimson,Deep Navy,Mushroom
+953,Slate,Spots,Emerald,Wizard,Royal,Burgundy Night,Mushroom
+954,Ash,Stripes,Sapphire,Robin Hood,Gold,Moss Dark,None
+955,Chestnut,Plain,Violet,Beanie,Royal,Deep Navy,Mushroom
+956,Forest,Spots,Violet,Cap,Royal,Charcoal,None
+957,Plum,Scallop,Sapphire,Cap,Royal,Ocean Deep,Star
+958,Ash,Scallop,Emerald,Beanie,Royal,Deep Navy,Star
+959,Forest,Scallop,Emerald,Beanie,Green,Plum Night,Mushroom
+960,Chestnut,Scallop,Emerald,Robin Hood,Crimson,Plum Night,Mushroom
+961,Slate,Plain,Violet,None,None,Midnight Teal,Mushroom
+962,Sand,Plain,Amber,Cap,Green,Moss Dark,None
+963,Cocoa,Spots,Amber,None,None,Plum Night,None
+964,Forest,Plain,Violet,Cap,Green,Midnight Teal,Mushroom
+965,Sand,Plain,Amber,Beanie,Green,Moss Dark,None
+966,Cocoa,Spots,Sapphire,Beanie,Green,Forest Night,Star
+967,Rust,Spots,Amber,Cap,Green,Midnight Teal,None
+968,Ash,Plain,Emerald,Cap,Royal,Midnight Teal,Star
+969,Ash,Plain,Sapphire,Wizard,Gold,Forest Night,Feather
+970,Cocoa,Spots,Violet,Beanie,Royal,Forest Night,Feather
+971,Forest,Spots,Amber,Robin Hood,Crimson,Plum Night,Feather
+972,Ash,Spots,Violet,Cap,Gold,Plum Night,Mushroom
+973,Cocoa,Plain,Teal,None,None,Moss Dark,None
+974,Rust,Spots,Amber,None,None,Plum Night,None
+975,Plum,Scallop,Amber,Cap,Crimson,Burgundy Night,Mushroom
+976,Cocoa,Stripes,Sapphire,Cap,Royal,Burgundy Night,Feather
+977,Sand,Scallop,Ruby,Wizard,Green,Forest Night,Feather
+978,Slate,Stripes,Emerald,Beanie,Gold,Ocean Deep,Star
+979,Rust,Scallop,Ruby,None,None,Forest Night,None
+980,Forest,Stripes,Emerald,None,None,Ocean Deep,None
+981,Rust,Stripes,Ruby,Beanie,Green,Forest Night,Feather
+982,Cocoa,Plain,Sapphire,Wizard,Crimson,Ocean Deep,Feather
+983,Plum,Spots,Teal,Beanie,Crimson,Deep Navy,Mushroom
+984,Ash,Spots,Teal,None,None,Burgundy Night,Feather
+985,Rust,Scallop,Sapphire,Wizard,Gold,Deep Navy,Feather
+986,Chestnut,Plain,Sapphire,Cap,Green,Charcoal,Feather
+987,Chestnut,Plain,Amber,Beanie,Crimson,Moss Dark,Mushroom
+988,Cocoa,Spots,Teal,Cap,Royal,Deep Navy,Star
+989,Sand,Scallop,Amber,Beanie,Green,Moss Dark,Mushroom
+990,Ash,Plain,Emerald,Robin Hood,Royal,Burgundy Night,Feather
+991,Sand,Stripes,Sapphire,Robin Hood,Crimson,Ocean Deep,Feather
+992,Ash,Stripes,Ruby,None,None,Charcoal,Mushroom
+993,Rust,Spots,Ruby,Robin Hood,Crimson,Plum Night,Feather
+994,Chestnut,Plain,Sapphire,Beanie,Gold,Ocean Deep,None
+995,Rust,Plain,Violet,Cap,Green,Ocean Deep,Feather
+996,Rust,Spots,Emerald,Cap,Gold,Deep Navy,None
+997,Plum,Spots,Emerald,Beanie,Gold,Deep Navy,Feather
+998,Ash,Stripes,Amber,None,None,Moss Dark,None
+999,Forest,Spots,Emerald,None,None,Ocean Deep,Star
+1000,Cocoa,Spots,Sapphire,Cap,Gold,Midnight Teal,Mushroom
